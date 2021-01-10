@@ -22,16 +22,25 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-9S6JD3372S"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'G-9S6JD3372S');
+		</script>
+
 	<!-- Global site tag (gtag.js) - Google Ads: 465890687 -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-465890687"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'AW-465890687');
-        </script>
-        <!-- Facebook Pixel Code -->
+        	<script>
+            	  window.dataLayer = window.dataLayer || [];
+            	  function gtag(){dataLayer.push(arguments);}
+            	  gtag('js', new Date());
+            	  gtag('config', 'AW-465890687');
+        	</script>
+        
+	<!-- Facebook Pixel Code -->
         <script>
             !function(f,b,e,v,n,t,s)
             {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
