@@ -72,15 +72,7 @@ Detectores de humo.<br>
 	        <img src="img_recoleta/01_KER_Recoleta_Website_HABITACIONES_Fichas_DELUXE.jpg" alt="01Standard_Banner_inferior_Standard" class="foto img-responsive">
         </div>
         
- <!--  SE AGREGA BOTON DE WHATSAPP   -->
-
-<div >
-        <a href="https://api.whatsapp.com/send?phone=5491130174497&text=Hola!%20Me%20contacto%20a%20través%20de%20la%20web%20y%20me%20gustaría%20realizar%20una%20consulta" target="_blank">
-            <img class="btn-whatsapp" src="img/icons/icon-wsp.png" alt="">
-        </a>
-    </div>
-
-<!--  SE AGREGA BOTON DE WHATSAPP   -->       
+		<?php include("mensaje_whatsapp.php");?>             
         
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>
