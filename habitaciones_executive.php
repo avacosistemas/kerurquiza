@@ -8,7 +8,7 @@
         
         
         <?php include("habitacionesheader.php");?>
-		
+	<?php include("protocolo_covid.php");?>  	
 		
 	        
         <div class="habitaciones_detalle">

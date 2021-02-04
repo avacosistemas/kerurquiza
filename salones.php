@@ -9,6 +9,11 @@
         
        <div class="salones">
 	       <img src="img_urquiza/EVENTOS/KER_URQUIZA_EVENTOS_banner_01.jpg" alt="KER_BELGRANO_EVENTOS_banner_01" class="img-responsive" />
+       </div>
+
+<?php include("protocolo_covid.php");?>  
+
+       <div class="salones">
 	       <div class="col-md-6" style="padding-left:0;">
 		       <img src="img_recoleta/EVENTOS/KER_RECOLETA_EVENTOS_foto01.jpg" alt="KER_BELGRANO_EVENTOS_banner_01" class="img-responsive" />
 	       </div>
@@ -65,7 +70,7 @@ Consultanos para reservar tu evento en Ker Urquiza.</p>
 		       </div>
 	       </div>
         
-        
+		   <?php include("mensaje_whatsapp.php");?>         
         
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>

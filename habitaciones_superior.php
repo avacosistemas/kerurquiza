@@ -8,7 +8,7 @@
         
         
         <?php include("habitacionesheader.php");?>
-		
+	<?php include("protocolo_covid.php");?>  		
 		
 	        
         <div class="habitaciones_detalle">
@@ -96,7 +96,7 @@
 	        <img src="img_urquiza/KER_URQUIZA_Website_HABITACIONES_Fichas_SUPERIOR.jpg" alt="01Standard_Banner_inferior_Standard" class="foto img-responsive">
         </div>
         
-        
+		<?php include("mensaje_whatsapp.php");?>              
         
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>

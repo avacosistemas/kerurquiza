@@ -123,7 +123,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			        </li>
 			        
 			        <li><a href="salones.php">EVENTOS</a></li>
-			        <li><a href="spa.php">SPA</a></li>
+			        <!--<li><a href="spa.php">SPA</a></li>-->
 			        <li><a href="hoteles.php">HOTELES</a></li>
 			        <a href="tel:08103456537" class="hidden-md hidden-lg linkmobile"><i class="fa fa-phone"></i> 0810-3456-537</a>
 			        <a href="https://wa.me/5491130174497" target="_blank" class="hidden-md hidden-lg linkmobile"><i class="fa fa-whatsapp"></i> RESERVAS 11 3017-4497</a>
